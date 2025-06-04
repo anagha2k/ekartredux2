@@ -54,7 +54,7 @@ function Wishlist() {
             <div style={{ height: '100vh' }} className='d-flex  align-items-center flex-column'>
               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXivEkJ2UUrt_cxUobj90UKk7QzAmiK8dTwg&s" alt=""
               height='400px' />
-              <h3 className='text-danger fw-bolder'>Your Cart Is Empty</h3>
+              <h3 className='text-danger fw-bolder'>Your Wishlist Is Empty</h3>
             </div>
         }
 
